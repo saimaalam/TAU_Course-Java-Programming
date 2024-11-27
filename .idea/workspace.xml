@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/chapter3/ChangeForADollarGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/GradeMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/LogicalOperatorLoanQualifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/TestResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/TestResults.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ChangeForADollarGame.executor": "Run",
+    "Application.GradeMessage.executor": "Run",
     "Application.GrossPayCalculator.executor": "Run",
     "Application.LoanQualifier.executor": "Run",
+    "Application.LogicalOperatorLoanQualifier.executor": "Run",
     "Application.MadLibs.executor": "Run",
     "Application.QuotaCalculator.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
@@ -48,7 +53,33 @@
     "onboarding.tips.debug.path": "E:/TAU_Course-Java-Programming/java_course/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestResults">
+  <component name="RunManager" selected="Application.ChangeForADollarGame">
+    <configuration name="ChangeForADollarGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.ChangeForADollarGame" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.GradeMessage" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoanQualifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.LoanQualifier" />
       <module name="java_course" />
@@ -62,34 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MadLibs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.MadLibs" />
-      <module name="java_course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuotaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.QuotaCalculator" />
-      <module name="java_course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SalaryCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter3.SalaryCalculator" />
+    <configuration name="LogicalOperatorLoanQualifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.LogicalOperatorLoanQualifier" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChangeForADollarGame" />
+        <item itemvalue="Application.LogicalOperatorLoanQualifier" />
+        <item itemvalue="Application.GradeMessage" />
         <item itemvalue="Application.TestResults" />
         <item itemvalue="Application.LoanQualifier" />
-        <item itemvalue="Application.QuotaCalculator" />
-        <item itemvalue="Application.SalaryCalculator" />
-        <item itemvalue="Application.MadLibs" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732643485972</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <option name="closed" value="true" />
+      <created>1732690626835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732690626835</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
