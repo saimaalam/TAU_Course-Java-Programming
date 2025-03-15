@@ -20,9 +20,16 @@ public class AverageTestScores {
 
             double total = 0;
             for(int j=0; j<numberOfTests; j++){
-                System.out.println("Enter the score for Test #" + (j+1));
+                System.out.println("Enter the score for Test #" + (j+1) +" for student#"+(i+1));
                 double score = scanner.nextDouble();
-                total = total + score;
+                if(score<100 && score>-1) {
+                    total = total + score;
+                }
+                else {
+                    System.out.println("Invalid entry.Score should be between 0 to 100. Enter again.");
+                    score = scanner.nextDouble();
+                }
+
             }
 
             double average = total/numberOfTests;
