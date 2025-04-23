@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/chapter5/PhoneBillCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/PhoneBillCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/PhoneBillCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,6 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2pNukHktZNXZzNR9s5b0Pfvklix" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,19 +46,29 @@
     "Application.LoanQualifier.executor": "Run",
     "Application.LogicalOperatorLoanQualifier.executor": "Run",
     "Application.MadLibs.executor": "Run",
+    "Application.PhoneBillCalculator.executor": "Run",
     "Application.QuotaCalculator.executor": "Run",
     "Application.RollTheDieGame.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
     "Application.TestResults.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "E:/TAU_Course-Java-Programming/java_course/src/Main.java"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/TAU_Course-Java-Programming/java_course/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InstantCreditCheck">
+  <component name="RunManager" selected="Application.PhoneBillCalculator">
     <configuration name="AverageTestScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter4.AverageTestScores" />
       <module name="java_course" />
@@ -99,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.LetterSearch" />
+    <configuration name="PhoneBillCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.PhoneBillCalculator" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,18 +136,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneBillCalculator" />
         <item itemvalue="Application.InstantCreditCheck" />
         <item itemvalue="Application.Greetings" />
         <item itemvalue="Application.RollTheDieGame" />
         <item itemvalue="Application.AverageTestScores" />
-        <item itemvalue="Application.LetterSearch" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
       </set>
     </attachedChunks>
   </component>
@@ -150,6 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732618997771</updated>
+      <workItem from="1745388311804" duration="4355000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -233,6 +244,9 @@
     </task>
     <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
