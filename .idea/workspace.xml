@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/chapter6/Month.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/MonthConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/BillCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/PhoneBill.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Application.AddNumbers.executor": "Run",
     "Application.AverageTestScores.executor": "Run",
+    "Application.BillCalculator.executor": "Run",
     "Application.Cashier.executor": "Debug",
     "Application.ChangeForADollarGame.executor": "Run",
     "Application.GradeMessage.executor": "Run",
@@ -83,9 +84,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MonthConverter">
-    <configuration name="Greetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.Greetings" />
+  <component name="RunManager" selected="Application.BillCalculator">
+    <configuration name="BillCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5.BillCalculator" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BillCalculator" />
         <item itemvalue="Application.MonthConverter" />
         <item itemvalue="Application.HomeAreaCalculatorRedo" />
         <item itemvalue="Application.PhoneBillCalculator" />
         <item itemvalue="Application.InstantCreditCheck" />
-        <item itemvalue="Application.Greetings" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,7 @@
       <updated>1732618997771</updated>
       <workItem from="1745388311804" duration="4355000" />
       <workItem from="1745471347730" duration="3722000" />
-      <workItem from="1745560503422" duration="6386000" />
+      <workItem from="1745560503422" duration="10369000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -275,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745567429320</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init">
+      <option name="closed" value="true" />
+      <created>1745569828721</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1745569828721</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
