@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/chapter5/BillCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/PhoneBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/LotteryTicket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,7 @@
     "Application.LetterSearch.executor": "Run",
     "Application.LoanQualifier.executor": "Run",
     "Application.LogicalOperatorLoanQualifier.executor": "Run",
+    "Application.LotteryTicket.executor": "Run",
     "Application.MadLibs.executor": "Run",
     "Application.MonthConverter.executor": "Run",
     "Application.PhoneBillCalculator.executor": "Run",
@@ -80,11 +80,11 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "E:/TAU_Course-Java-Programming/java_course/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BillCalculator">
+  <component name="RunManager" selected="Application.LotteryTicket">
     <configuration name="BillCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.BillCalculator" />
       <module name="java_course" />
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstantCreditCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.InstantCreditCheck" />
+    <configuration name="LotteryTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.LotteryTicket" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.*" />
+          <option name="PATTERN" value="chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LotteryTicket" />
         <item itemvalue="Application.BillCalculator" />
         <item itemvalue="Application.MonthConverter" />
         <item itemvalue="Application.HomeAreaCalculatorRedo" />
         <item itemvalue="Application.PhoneBillCalculator" />
-        <item itemvalue="Application.InstantCreditCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,7 @@
       <updated>1732618997771</updated>
       <workItem from="1745388311804" duration="4355000" />
       <workItem from="1745471347730" duration="3722000" />
-      <workItem from="1745560503422" duration="10369000" />
+      <workItem from="1745560503422" duration="14391000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -284,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745569828721</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="init">
+      <option name="closed" value="true" />
+      <created>1745574421427</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1745574421427</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
