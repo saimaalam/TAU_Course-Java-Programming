@@ -2,7 +2,7 @@ package chapter8;
 
 public class TextProcessor {
     public static void main(String[] args) {
-        countWords("I love Test Automation University");
+        countWords("I love ice cream");
     }
 
     /**
@@ -13,5 +13,10 @@ public class TextProcessor {
     public  static void countWords(String text){
         var word= text.split(" ");
         int totalWords= word.length;
+        String message= String.format("Your text contains %d words : ",totalWords);
+        System.out.println(message);
+        for (int i = 0; i < totalWords; i++) {
+            System.out.println(word[i]);
+        }
     }
 }
