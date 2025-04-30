@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter8/PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8/PasswordValidator.java" afterDir="false" />
-    </list>
+    <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,7 +181,7 @@
       <workItem from="1745471347730" duration="3722000" />
       <workItem from="1745560503422" duration="16876000" />
       <workItem from="1745843070426" duration="2646000" />
-      <workItem from="1745868336830" duration="1040000" />
+      <workItem from="1745868336830" duration="1403000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -365,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745827304994</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="init">
+      <option name="closed" value="true" />
+      <created>1745870303846</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1745870303846</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
