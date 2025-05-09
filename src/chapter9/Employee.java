@@ -4,6 +4,11 @@ public class Employee extends Person {
     private String employeeId;
     private String title;
 
+    public Employee() {
+        super("Employee 1");
+        System.out.println("In Employee default Constructor");
+    }
+
     public String getEmployeeId() {
         return employeeId;
     }
