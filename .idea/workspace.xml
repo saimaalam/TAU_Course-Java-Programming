@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/chapter9/BirthdayCake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/TasteTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/WeddingCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
     "Application.TasteTester.executor": "Run",
     "Application.TestResults.executor": "Run",
     "Application.TextProcessor.executor": "Run",
+    "Application.Zoo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -93,20 +94,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TasteTester">
-    <configuration name="HomeAreaCalculatorRedo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.HomeAreaCalculatorRedo" />
-      <module name="java_course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zoo">
     <configuration name="InheritanceTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter9.InheritanceTester" />
       <module name="java_course" />
@@ -159,13 +147,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10.Zoo" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.TasteTester" />
         <item itemvalue="Application.InheritanceTester" />
         <item itemvalue="Application.PasswordValidator" />
         <item itemvalue="Application.TextProcessor" />
-        <item itemvalue="Application.HomeAreaCalculatorRedo" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +194,7 @@
       <workItem from="1745989194358" duration="33000" />
       <workItem from="1746195025709" duration="1224000" />
       <workItem from="1746781957952" duration="5252000" />
-      <workItem from="1746803948541" duration="1284000" />
+      <workItem from="1746803948541" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -403,7 +404,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746797729426</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="init">
+      <option name="closed" value="true" />
+      <created>1746805381876</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1746805381876</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
