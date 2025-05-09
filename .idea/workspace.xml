@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9/Woman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/BirthdayCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/TasteTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/WeddingCake.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9/InheritanceTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +73,7 @@
     "Application.QuotaCalculator.executor": "Run",
     "Application.RollTheDieGame.executor": "Run",
     "Application.SalaryCalculator.executor": "Run",
+    "Application.TasteTester.executor": "Run",
     "Application.TestResults.executor": "Run",
     "Application.TextProcessor.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -92,20 +93,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InheritanceTester">
-    <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.DayOfTheWeek" />
-      <module name="java_course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TasteTester">
     <configuration name="HomeAreaCalculatorRedo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6.HomeAreaCalculatorRedo" />
       <module name="java_course" />
@@ -145,6 +133,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TasteTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9.TasteTester" />
+      <module name="java_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TextProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter8.TextProcessor" />
       <module name="java_course" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TasteTester" />
         <item itemvalue="Application.InheritanceTester" />
         <item itemvalue="Application.PasswordValidator" />
         <item itemvalue="Application.TextProcessor" />
         <item itemvalue="Application.HomeAreaCalculatorRedo" />
-        <item itemvalue="Application.DayOfTheWeek" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +192,8 @@
       <workItem from="1745868336830" duration="1403000" />
       <workItem from="1745989194358" duration="33000" />
       <workItem from="1746195025709" duration="1224000" />
-      <workItem from="1746781957952" duration="4847000" />
+      <workItem from="1746781957952" duration="5252000" />
+      <workItem from="1746803948541" duration="1284000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -393,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746784165810</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="init">
+      <option name="closed" value="true" />
+      <created>1746797729426</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1746797729426</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
