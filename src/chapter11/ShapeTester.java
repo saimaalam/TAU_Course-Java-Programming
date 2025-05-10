@@ -1,3 +1,5 @@
+package chapter11;
+
 import chapter11.Rectangle;
 import chapter11.Shape;
 
