@@ -8,4 +8,5 @@ public class Dog extends Animal{
     public void fetch(){
         System.out.println("I'm a dog. Fetch is fun!");
     }
+
 }
