@@ -82,6 +82,7 @@ public class CollectionsDemo {
                 (k, v) -> System.out.println("Fruit: " + k + " Calories: " + v)
         );
 
+
     }
 
     public static void main(String[] args) {

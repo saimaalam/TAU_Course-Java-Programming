@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebacc4d8-5d9b-4f55-b08f-947167cc2fe9" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/chapter12/FinalGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/TestResults.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter12/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12/CollectionsDemo.java" afterDir="false" />
     </list>
@@ -56,6 +58,7 @@
     "Application.Customer.executor": "Run",
     "Application.DayOfTheWeek.executor": "Run",
     "Application.Farm.executor": "Run",
+    "Application.FinalGrade.executor": "Run",
     "Application.GradeMessage.executor": "Run",
     "Application.Grades.executor": "Run",
     "Application.Greetings.executor": "Run",
@@ -103,7 +106,7 @@
       <recent name="chapter11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionsDemo">
+  <component name="RunManager" selected="Application.FinalGrade">
     <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter12.CollectionsDemo" />
       <module name="java_course" />
@@ -143,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Market" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter10.Market" />
+    <configuration name="FinalGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter12.FinalGrade" />
       <module name="java_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter10.*" />
+          <option name="PATTERN" value="chapter12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalGrade" />
         <item itemvalue="Application.CollectionsDemo" />
         <item itemvalue="Application.Farm" />
         <item itemvalue="Application.Customer" />
         <item itemvalue="Application.ShapeTester" />
-        <item itemvalue="Application.Market" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +458,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746990670684</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="init">
+      <option name="closed" value="true" />
+      <created>1746992088656</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1746992088656</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
