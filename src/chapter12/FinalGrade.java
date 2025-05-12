@@ -5,8 +5,8 @@ import java.util.Map;
 public class FinalGrade {
     public static Map getFinalGrade() {
 
-        Map<String, Integer> grades = TestResults.getOriginalGrades();
-        Map<String, Integer> makeUpGrades = TestResults.getMakeUpGrades();
+        Map <String,Integer> grades = TestResults.getOriginalGrades();
+        Map <String,Integer>  makeUpGrades = TestResults.getMakeUpGrades();
 
         grades.forEach(
                 (k, v) -> System.out.println("Name: " + k + " Grade: " + v)
